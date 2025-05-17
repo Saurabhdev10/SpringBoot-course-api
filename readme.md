@@ -15,7 +15,7 @@ This is a **Spring Boot** RESTful API project named **Course API** that demonstr
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- H2/MySQL (or any database you are using)
+- MySQL (or any database you are using)
 - Maven
 
 ## Getting Started
